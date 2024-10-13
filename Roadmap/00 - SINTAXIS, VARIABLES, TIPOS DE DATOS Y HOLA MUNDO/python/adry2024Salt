@@ -1,0 +1,15 @@
+# https://python.org/
+
+#  tambien podes ingresar de esta forma comentarios 
+
+""" comentarios en varias lineas
+tienen muchas palabras"""
+
+'''esta es otra forma de comentar lineas'''
+
+str 0 "hola mundo"
+int = 256
+float = 0.254
+bool = True 
+bool1 = False
+print("hola Python"
